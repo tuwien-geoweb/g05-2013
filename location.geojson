@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "zuHause"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.343042850494385,
+          48.21063269505329
+        ]
+      }
+    }
+  ]
+}
